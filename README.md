@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Noob 👋
+- I am currently a cybersecurity student
+- "-.-. --- -. --. .-. .- - ..- .-.. .- - .. --- -. --..-- / -.-- --- ..- / - .-. .- -. ... .-.. .- - . -.. / - .... .. ... / -- . ... ... .- --. . .-.-.- / --. --- --- -.. / .--- --- -... / ..-. --- .-. / .-- .- ... - .. -. --. / -.-- --- ..- .-. / - .. -- . / - --- / .-. . .- -.. / - .... .. ..."
+- Bye
+
+
 
 <!--
 **MrNoob149/MrNoob149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
